@@ -1,5 +1,14 @@
-# VRC-Haptics-Firmware-ESP
-Firmware for the DIY haptics solution, See the projects PC application for more info: [VRCH-server](https://github.com/VRC-Haptics/VRCH-Server)
+# VRC-Haptics-Firmware-ESP-lost-fork
+cc to average [the original creator ] 
+[NOTE :this fork is maintained by cutzo and learning shit and will be tailored to my own hardware 
+priory notes high=H low=L [whats being actively r&d is H]
+currently list of objectives 
+-blue tooth [lookinto it i dont have a time line maybe in 5 months ] needed for nrf slime users to limit wifi issuses=H
+temp led [to if it over heat the user can know]=L
+setup/startup led for wifi indication =L
+
+note 2 im using ai as tool for me to understand  code for basic understand so i can be solo with ai  [ all my commits will be done without ai touching a line of code or coppied ]
+its used as directional tool thats it 
 
 ## Usage
 This is the current setup, soon this should change.
