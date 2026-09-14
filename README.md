@@ -3,7 +3,11 @@ cc to average [the original creator ]
 [NOTE :this fork is maintained by cutzo and learning shit and will be tailored to my own hardware 
 priory notes high=H low=L [whats being actively r&d is H]
 currently list of objectives 
--blue tooth [lookinto it i dont have a time line maybe in 5 months ] needed for nrf slime users to limit wifi issuses=H
+-blue tooth [lookinto it i dont have a time line maybe in 5 months ] needed for nrf slime users to limit wifi issuses=H 
+(9/14 got the firmware to build however probably a bunch of issues to sort and is not currently working with motor (that will have to be done along side the sever )   will hopefully move over to sever side of things in a month or so i have enough understanding connection wise it does advertise to ble just need to finish the serial side of things 
+to probably ditch ai for help/debugging ) i used nimble library 
+
+
 temp led [to if it over heat the user can know]=L
 setup/startup led for wifi indication =L
 
